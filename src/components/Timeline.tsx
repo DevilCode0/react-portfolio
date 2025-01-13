@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Tamkeen Technologies</h3>
             <h4 className="vertical-timeline-element-subtitle">Trainee - Service Continuity</h4>
             <p>
-              
+            Focusing on ensuring system reliability, minimizing downtime, and supporting business continuity through effective processes and solutions.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
