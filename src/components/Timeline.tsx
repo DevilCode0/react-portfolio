@@ -20,22 +20,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Tamkeen Technologies</h3>
+            <h4 className="vertical-timeline-element-subtitle">Trainee - Service Continuity</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
-            </p>
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="Jul 2024 - Oct 2024"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
-            icon={<FontAwesomeIcon icon={faGraduationCap} />}
-          >
-            <h3 className="vertical-timeline-element-title">AI Boot camps</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tuwaiq Academy / SDAIA</h4>
-            <p>
-            T5 AI and Machine learning
+              
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
